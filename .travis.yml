@@ -3,4 +3,4 @@ node_js:
   - "node"
   - "iojs"
 before_script:
-    - npm compile
+    - npm run compile
