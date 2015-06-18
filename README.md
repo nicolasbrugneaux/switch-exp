@@ -1,4 +1,4 @@
-# Switch expressions
+# Switch expressions [![Build Status](https://travis-ci.org/nicolasbrugneaux/switch-exp.svg?branch=master)](https://travis-ci.org/nicolasbrugneaux/switch-exp)
 
 Switch as an expression in Javascript, inspired by @FGRibreau's [https://github.com/FGRibreau/if-exp](https://github.com/FGRibreau/if-exp).
 
